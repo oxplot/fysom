@@ -254,6 +254,12 @@ __email__ = 'mansour@oxplot.com'
 
 import types
 
+try:
+  unicode = unicode
+except NameError:
+  unicode = str
+  basestring = (str, bytes)
+
 class FysomError(Exception):
   pass
 

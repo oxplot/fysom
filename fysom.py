@@ -3,8 +3,8 @@
 #            Gordon's javascript-state-machine to python
 #            https://github.com/jakesgordon/javascript-state-machine
 #
-# Copyright (C) 2011 Mansour <mansour@oxplot.com>, Jake Gordon and other
-#                    contributors
+# Copyright (C) 2011 Mansour Behabadi <mansour@oxplot.com>, Jake Gordon
+#                    and other contributors
 #
 # Permission is hereby granted, free of charge, to any person obtaining
 # a copy of this software and associated documentation files (the
@@ -244,12 +244,12 @@ state machine.
 
 """
 
-__author__ = 'Mansour'
-__copyright__ = 'Copyright 2011, Mansour and Jake Gordon'
-__credits__ = ['Mansour', 'Jake Gordon']
+__author__ = 'Mansour Behabadi'
+__copyright__ = 'Copyright 2011, Mansour Behabadi and Jake Gordon'
+__credits__ = ['Mansour Behabadi', 'Jake Gordon']
 __license__ = 'MIT'
 __version__ = '1.0'
-__maintainer__ = 'Mansour'
+__maintainer__ = 'Mansour Behabadi'
 __email__ = 'mansour@oxplot.com'
 
 import types
